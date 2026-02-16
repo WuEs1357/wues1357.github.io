@@ -1,7 +1,12 @@
 ---
 layout: default
-title: Strona główna # Wpis tutaj tytuł strony głównej
+title: Strona główna # Wpisz tutaj tytuł strony głównej (index.md)
 ---
+
+<div style="margin-bottom: 30px;">
+  <input type="text" id="search-input" placeholder="Szukaj..." style="width: 100%; padding: 8px; font-family: monospace; border: 1px solid #ccc; border-radius: 4px;">
+  <ul id="results-container" style="list-style: none; padding-left: 0; margin-top: 10px;"></ul>
+</div>
 
 <div id="all-posts">
   <h3>Spis treści:</h3>
