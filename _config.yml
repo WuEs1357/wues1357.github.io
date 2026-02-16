@@ -1,0 +1,30 @@
+# --- GŁÓWNE USTAWIENIA ---
+title: Tytuł bloga # Wpisz tutaj swój tytuł bloga
+description: Opis bloga # Wpisz tutaj swój opis bloga
+url: "https://wues1357.github.io" # Zmień tutaj mój login na swój
+baseurl: "" 
+favicon: favicon.png # ikonę wrzuć do głównego folderu repozytorium pod tą nazwą (najlepiej rozdzielczość 192x192 albo 512x512)
+
+# --- MOTYW ---
+remote_theme: riggraz/no-style-please # Domyślnie Jekyll używa motywu minima, ale nie podobał mi się on, więc od razu zmieniłem go na ten i tak też polecam zrobić
+
+# --- USTAWIENIA LINKÓW ---
+permalink: /:title/ # Takie permalinki są zgodne ze standardem Wordpress, co później ułatwi ewentualną migrację istniejącego bloga z WP
+
+# --- WTYCZKI ---
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+# --- DANE AUTORA ---
+author:
+  name: Jan Kowalski # Wypełni wedle uznania
+  url: https://pajacyk.pl # Wypełni wedle uznania
+
+# --- USTAWIENIA MARKDOWN ---
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
