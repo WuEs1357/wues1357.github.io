@@ -20,8 +20,8 @@ plugins:
 
 # --- DANE AUTORA ---
 author:
-  name: Jan Kowalski # Wypełni wedle uznania
-  url: https://pajacyk.pl # Wypełni wedle uznania
+  name: Adam Testowy # Wypełni wedle uznania
+  url: https://bit.ly/3OZm0I8 # Wypełni wedle uznania
 
 # --- USTAWIENIA MARKDOWN ---
 markdown: kramdown
