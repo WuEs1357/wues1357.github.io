@@ -13,4 +13,4 @@ Jesteś na moim personalnym blogu, który nie ma jednej określonej tematyki. Je
 
 (fragment oryginalnego wpisu autora poradnika, ale doskonale opisuje także i mnie)
 
-### *Ostatnia aktualizacja: 16 lutego 2026 roku*
+*Ostatnia aktualizacja: 16 lutego 2026 roku*
