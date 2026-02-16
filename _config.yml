@@ -1,6 +1,6 @@
 # --- GŁÓWNE USTAWIENIA ---
-title: Tytuł bloga # Wpisz tutaj swój tytuł bloga
-description: Opis bloga # Wpisz tutaj swój opis bloga
+title: Tytuł bloga - docelowo zostanie zmieniony # Wpisz tutaj swój tytuł bloga
+description: Opis bloga - jeszcze nie wprowadzono, to na razie testy # Wpisz tutaj swój opis bloga
 url: "https://wues1357.github.io" # Zmień tutaj mój login na swój
 baseurl: "" 
 favicon: favicon.png # ikonę wrzuć do głównego folderu repozytorium pod tą nazwą (najlepiej rozdzielczość 192x192 albo 512x512)
